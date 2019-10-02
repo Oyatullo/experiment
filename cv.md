@@ -4,7 +4,7 @@
 #### Facebook profile : Oyatillo KV Official
 
 
- Goals for this course.First of all, the interest to programming ,learning computer technologies and being proffesional of my proffesion.In this life for me threre some idols that i always try to imitate. As a example the **Mark Zuckerberg** who started his career from just simple website that has become an essential part of life for many humans in the world or another example **Jack Ma** who famous for his fails that tough him a lot in this life. People like them always inspire me that every master also was beginner .So my plan for this course is to be part of an enourmous community that called "EPAM".And in order to develop my skills, there has great opportunity that i want not to miss
+ First of all, the interest to programming ,learning computer technologies and being proffesional of my proffesion.In this life for me threre some idols that i always try to imitate. As a example the **Mark Zuckerberg** who started his career from just simple website that has become an essential part of life for many humans in the world or another example **Jack Ma** who famous for his fails that tough him a lot in this life. People like them always inspire me that every master also was beginner .And in order to develop my skills, there has great opportunity that i want not to miss
  
  ### Skills of Programming :
     
